@@ -1,6 +1,8 @@
 # OVERVIEW 
 The purpose of this analysis is get the number of retiring employees, the most recent titles filled and also the number of titles filled by employees who are retiring as seen in deliverable 1. The analysis also focuses on helping Pewlett Hackard generate a list of all employees eligible for the retirement package as seen in deliverable 2.
 
+Image showing the entity relationship diagram of the emplyees: ![Screenshot 2023-03-16 at 1 21 55 AM](https://user-images.githubusercontent.com/109382758/225522776-86c0e5df-9493-4794-be28-2eb1b912210f.png)
+
 
 # RESULTS
 - Helps to know the names and numbers of those likely to retire soon.
